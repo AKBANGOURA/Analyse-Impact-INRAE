@@ -20,6 +20,8 @@ Si vous souhaitez lancer l'application localement :
 1. Clonez le dépôt.
 2. Installez les dépendances : `pip install -r requirements.txt`.
 3. Lancez l'app : `streamlit run app.py`.
+4. sinon cliquer sur ce lien https://analyse-impact-alimentaire-inrae.streamlit.app/
 
 ## Données utilisées
+
 - Données simulées basées sur **Agribalyse v3.1** et **OpenFoodFacts**.
